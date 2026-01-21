@@ -1,0 +1,5 @@
+{
+  "name": "Screen Longshot",
+  "description": "Analyze screen recording videos to extract text, chats, and diagrams into downloadable structured logs.",
+  "requestFramePermissions": []
+}
